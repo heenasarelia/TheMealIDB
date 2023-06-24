@@ -1,0 +1,130 @@
+a:link{
+    color:white;
+}
+
+.a{
+    text-align: left;
+}
+#color{
+    background-color: #2d2013;
+}
+#button1{
+    font-family: Verdana;
+    -webkit-text-fill-color: #ffa23a;
+    cursor: pointer;
+    font-size: larger;
+    text-align: center;
+    justify-items: center;
+}
+#button2{
+    -webkit-text-fill-color: white;
+    cursor: pointer;
+    background-color: #2d2013;
+    position: relative;
+    outline: black ;
+    box-shadow: black;
+    text-decoration: none;
+}
+#button2:hover{
+    background-color:none;
+}
+#button3{
+    -webkit-text-fill-color: white;
+    cursor: pointer;
+    background-color: #2d2013;
+    text-decoration: none;
+}
+#button3:hover{
+    background-color:#c52d2f;
+}
+#button4{
+    -webkit-text-fill-color: white;
+    cursor: pointer;
+    background-color: #2d2013;
+}
+#button4:hover{
+    background-color:#c52d2f;
+}
+#button5{
+    margin-right: 0%;
+}
+.fa {
+    cursor: pointer;
+    color :white;
+}
+.fa:hover{
+    background-color: #c52d2f;
+}
+#div1{
+    background-color: #315992;
+}
+#div2{
+    background-color: #92d7f3;
+}
+#h6{
+    color: white;
+    cursor: pointer;
+    text-align: center;
+}
+#p{
+    text-justify:auto ;
+    text-align: center;
+    color: white;
+}
+* {
+    box-sizing: border-box;  
+  }
+
+  /* Style the search field */
+  form.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    width: 20%;
+    background: #f1f1f1;
+  }
+  
+  /* Style the submit button */
+  form.example button {
+    width: 5%;
+    padding: 10px;
+    background: #2196F3;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none; /* Prevent double borders */
+    cursor: pointer;
+  }
+  
+  form.example button:hover {
+    background: #0b7dda;
+  }
+  
+  /* Clear floats */
+  form.example::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+ #center{
+    margin:0px auto;
+ }
+ #button12{
+    font-family: Verdana;
+    -webkit-text-fill-color: #c4231c;
+    cursor: pointer;
+    font-size: larger;
+    text-align: center;
+    justify-items: center;
+}
+#button13{
+    font-family: Verdana;
+    -webkit-text-fill-color: #6ac36f;
+    cursor: pointer;
+    font-size: larger;
+    text-align: center;
+    justify-items: center;
+}
+#text{
+    text-align: center ;
+}
